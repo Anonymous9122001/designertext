@@ -1,14 +1,22 @@
-# designertext
+# Termux Banner
+#Script by Sutariya Parixit
+
 Installation Step :
 
-git clone https://github.com/Anonymous9122001/designertext/
+1) git clone https://github.com/Bhai4You/Termux-Banner
 
-cd Termux-Banner
 
-chmod +x requirement.sh
+2) cd Termux-Banner
 
-chmod +x t-ban.sh
 
-bash requirement.sh
+3) chmod +x requirement.sh
 
-bash t-ban.sh
+
+4) chmod +x t-ban.sh
+
+
+5) bash requirement.sh
+
+
+6) bash t-ban.sh
+
