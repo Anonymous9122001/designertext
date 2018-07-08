@@ -1,7 +1,7 @@
 # designertext
 Installation Step :
 
-git clone 
+git clone https://github.com/Anonymous9122001/designertext/
 
 cd Termux-Banner
 
